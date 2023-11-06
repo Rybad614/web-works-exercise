@@ -1,0 +1,25 @@
+1. HTTP- Gets or sends data to a server
+
+2. URL- Address for a website
+
+3. DNS- Takes hostname/URL and turns it into IP Address
+
+4. Query String- An alternate location/page on a website stored at the end of the URL 
+
+5. HTTP Verbs- (GET) retrieves data from server 
+(POST) sends data to server
+
+6. HTTP Request- Pull resource from a server
+
+7. HTTP Response- Provides or notify a client information it requested 
+
+8. HTTP Header- Information sent and received by client and server
+Request headers: Host, Accept
+Response headers: Last-Modified, Cache-Control
+
+9. The URL Process- 
+- Browser stores name in IP Address
+- Browser then makes request to IP
+- Server sends response
+- Browser forms visual from that HTML
+- Browser makes separate HTTP requests for those resources and receives response from the server for each
